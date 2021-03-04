@@ -1,11 +1,11 @@
 # ANTON SHNIP
----
+
 ### Contacts
 
->- Discord: **ARDIS#9917**
->- Telegram: **@Tony_Pog**
->- Email: **[shnip12345@gmail.com](mailto:shnip12345@gmail.com)**
->- GitHub: **[Tony-Shnip](https://github.com/Tony-Shnip)**
+- Discord: **ARDIS#9917**
+- Telegram: **@Tony_Pog**
+- Email: **[shnip12345@gmail.com](mailto:shnip12345@gmail.com)**
+- GitHub: **[Tony-Shnip](https://github.com/Tony-Shnip)**
 
 ### Brief information
 
