@@ -4,6 +4,7 @@
 
 - Discord: **ARDIS#9917**
 - Telegram: **@Tony_Pog**
+- Phone number: **+375-33-654-26-34**
 - Email: **[shnip12345@gmail.com](mailto:shnip12345@gmail.com)**
 - GitHub: **[Tony-Shnip](https://github.com/Tony-Shnip)**
 
