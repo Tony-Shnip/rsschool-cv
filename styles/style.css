@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+body {
+    max-width: 1000px;
+    margin: auto;
+    border: 3px solid rgb(240, 171, 93);
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    gap: 20px;
+    align-items: center;
+}
+
+.face {
+    width: 200px;
+}
+
+.fullname h2 {
+    font-size: 0.75em;
+    font-weight: 400;
+    text-align: center;
+}
+
+hr {
+    height: 3px;
+    border: none;
+    color: rgb(240, 171, 93);
+    background-color: rgb(240, 171, 93);
+}
+
+.contacts {
+    padding: 20px;
+}
+
+.contacts ul {
+    margin-left: 20px;
+}
+
+.about {
+    padding: 20px;
+}
+
+.about p {
+    text-align: justify;
+}
+
+.skills {
+    padding: 20px;
+}
+
+.skills ul {
+    margin-left: 20px;
+}
+
+.code {
+    display: grid;
+    padding: 20px;
+}
+
+.code div {
+    position: relative;
+    margin: 20px 0;
+}
+
+.code div * {
+    margin-left: 60px;
+}
+
+pre {
+    padding: 20px;
+    background-color: rgb(221, 226, 226);
+    border-radius: 30px;
+    width: max-content;
+}
+
+.education {
+    padding: 20px;
+}
+
+.english {
+    padding: 20px;
+}
+
+footer {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    padding: 20px;
+    margin: -3px;
+    font-size: 1em;
+    background-color: rgb(240, 171, 93);
+}
